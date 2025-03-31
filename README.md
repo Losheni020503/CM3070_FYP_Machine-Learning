@@ -57,3 +57,11 @@ It aims to improve book recommendation systems, automate review analysis, and en
    ```bash
    git clone https://github.com/your-username/kindle_sentiment_genre_classification.git
    cd kindle_sentiment_genre_classification
+2. Install dependencies
+
+pip install -r requirements.txt
+Run Notebooks (Jupyter)
+
+3. Run preprocessing.ipynb for data cleaning and SMOTE balancing
+
+
