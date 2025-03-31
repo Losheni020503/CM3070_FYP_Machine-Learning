@@ -1,6 +1,6 @@
 # Sentiment & Genre Classification Using Deep Learning on Amazon Kindle Reviews
 
-This final-year university project, developed by **Losheni Meenakshi Sundaram**, focuses on building robust sentiment and genre classifiers for Amazon Kindle book reviews. It uses a combination of **Multi-Layer Neural Network (MLNN)**, **LSTM**, and **Transformer-based hybrid models**, with advanced preprocessing, class balancing, and NLP techniques.
+This final-year university project focuses on building robust sentiment and genre classifiers for Amazon Kindle book reviews. It uses a combination of **Multi-Layer Neural Network (MLNN)**, **LSTM**, and **Transformer-based hybrid models**, with advanced preprocessing, class balancing, and NLP techniques.
 
 ---
 
