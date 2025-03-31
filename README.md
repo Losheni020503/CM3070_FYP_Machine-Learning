@@ -58,10 +58,13 @@ It aims to improve book recommendation systems, automate review analysis, and en
    git clone https://github.com/your-username/kindle_sentiment_genre_classification.git
    cd kindle_sentiment_genre_classification
 2. Install dependencies
+   pip install -r requirements.txt
+   Run Notebooks (Jupyter)
 
-pip install -r requirements.txt
-Run Notebooks (Jupyter)
+📜 License
+This project is intended for educational and research purposes.
 
-3. Run preprocessing.ipynb for data cleaning and SMOTE balancing
+👩‍💻 Author
+Name: Losheni Meenakshi Sundaram
 
 
