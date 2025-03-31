@@ -51,7 +51,7 @@ It aims to improve book recommendation systems, automate review analysis, and en
 
 ---
 
-## 🚀 How to Run This Project
+##  How to Run This Project
 
 1. **Clone the repository**
    ```bash
