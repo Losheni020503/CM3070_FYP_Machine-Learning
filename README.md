@@ -1,10 +1,10 @@
-# 📚 Sentiment & Genre Classification Using Deep Learning on Amazon Kindle Reviews
+# Sentiment & Genre Classification Using Deep Learning on Amazon Kindle Reviews
 
 This final-year university project, developed by **Losheni Meenakshi Sundaram**, focuses on building robust sentiment and genre classifiers for Amazon Kindle book reviews. It uses a combination of **Multi-Layer Neural Network (MLNN)**, **LSTM**, and **Transformer-based hybrid models**, with advanced preprocessing, class balancing, and NLP techniques.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 The system classifies user reviews into:
 - **Sentiment**: Positive, Neutral, or Negative
@@ -20,7 +20,7 @@ It aims to improve book recommendation systems, automate review analysis, and en
 
 ---
 
-## 🧠 Models Implemented
+## Models Implemented
 
 - **Baseline Models**: Logistic Regression, Naive Bayes, Random Forest
 - **Advanced DL Models**: MLNN, LSTM, FNN
@@ -30,7 +30,7 @@ It aims to improve book recommendation systems, automate review analysis, and en
 
 ---
 
-## 🧰 Technologies Used
+##  Technologies Used
 
 - Python 3.10
 - TensorFlow / Keras
@@ -40,7 +40,7 @@ It aims to improve book recommendation systems, automate review analysis, and en
 
 ---
 
-## 📦 Dataset
+## Dataset
 
 - **Source**: https://www.kaggle.com/datasets/mohamedbakhet/amazon-books-reviews
 - **Fields Used**:
@@ -61,10 +61,9 @@ It aims to improve book recommendation systems, automate review analysis, and en
    pip install -r requirements.txt
    Run Notebooks (Jupyter)
 
-📜 License
+## License 
 This project is intended for educational and research purposes.
 
-👩‍💻 Author
-Name: Losheni Meenakshi Sundaram
+
 
 
